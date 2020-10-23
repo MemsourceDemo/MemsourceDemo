@@ -1,14 +1,14 @@
 {
     "list": {
-            "id": "1",
-            "value": "t$e$x$t$ 1 f$o$r$ t$r$a F$u$r$t$h$e$r$ d W$r$i$t$e$ o$u$t$ m$o$r$e$ s$t$u$f"
+            "id": "",
+            "value": "  "
         },
     "text": {
-            "id": "2",
-            "value": "t$e$x$t$ 2 f$o$r$ t$r$a Další komentáře.Další komentáře."
+            "id": "",
+            "value": " "
         },
     "menu": {
-            "id": "3",
-            "value": "t$e$x$t$ 3 f$o$r$ t$r$a W$i$t$h$ a$d$d$i$t$i$"
+            "id": "",
+            "value": " "
              }
     }
