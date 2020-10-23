@@ -1,11 +1,11 @@
 {
     "list": {
-            "id": "",
-            "value": "  "
+            "id": "1",
+            "value": "text 1 pro překlad. Více podrobností. Sem napište také další věci."
         },
     "text": {
-            "id": "",
-            "value": " "
+            "id": "2",
+            "value": "text 2 pro překlad. "
         },
     "menu": {
             "id": "",
