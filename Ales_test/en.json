@@ -1,0 +1,856 @@
+{
+	"localization": {
+		"messages": {
+			"language": "Language",
+			"checkout": "Secure Checkout",
+			"poweredBy": "powered by Borderfree",
+			"select": "Select",
+			"delete": "Delete",
+			"add": "Add",
+			"loading": {
+				"title": "Loading international checkout",
+				"bullet1": "Verifying shopping cart",
+				"bullet2": "Determining shipping and payment options",
+				"bullet3": "Calculating duties and taxes"
+			},
+			"returnToCart": "Return to shopping cart",
+			"info": "Savings Notice",
+			"error": "We're Sorry",
+			"formValidationError": "Form is invalid",
+			"schemaValidationError": "Schema validation failure",
+			"success": "Success",
+			"warning": "Notice",
+			"restrictions": {
+				"generic": "There is a problem with the following items you are trying to purchase.",
+				"invalidCurrency": "Please note that the foreign exchange rate for your desired currency has just been updated.",
+				"skuNotFound": "This product was not found in our international database. Please remove this item from your shopping cart and try again.",
+				"itemQty": "This item is either restricted for import, or the quantity you are trying to purchase exceeds the maximum quantity amount allowed for shipments to this country. Please reduce the quantity in your shopping cart and try again.",
+				"country": "This product is not available for shipments to this country. Please remove this item from your shopping cart.",
+				"size": "This item exceeds the maximum weight or size limit for products shipping to this country. Please remove this item from your shopping cart and try again.",
+				"basketValue": "The order total exceeds the maximum amount allowed for shipping to this country. Please remove item(s) from your shopping cart and try again.",
+				"basketQty": "This item is either restricted for import, or the quantity you are trying to purchase exceeds the maximum quantity amount allowed for shipments to this country. Please reduce the quantity in your shopping cart and try again.",
+				"other": "This product is not available for shipments to this country. Please remove this item from your shopping cart.",
+				"otherBasket": "This product is not available for shipments to this country. Please remove this item from your shopping cart.",
+				"order.restr.e4x.sku.not.found": "This product was not found in our international database. Please remove this item from your shopping cart and try again.",
+				"order.restr.e4x.item.quantity": "The specified quantity of SKU {0} exceeds the per-item limit of {1}. Please reduce the quantity in your shopping cart and try again.",
+				"order.restr.e4x.skus.quantity": "Unfortunately, your order cannot contain more than {0} different items. Please go back to the Shopping Cart and reduce the number of items to {0} or less to proceed with your order.",
+				"order.restr.e4x.zero.order.value": "Unfortunately this item is either restricted for import, or the value of this item is outside the range allowed for products shipping to this country.",
+				"order.restr.e4x.order.value": "The total value of the items you are trying to purchase exceeds the maximum amount of {0} allowed for shipments to this country. Please reduce the merchandise total within your shopping cart and try again.",
+				"order.restr.merch.country": "This product is not available for shipments to this country. Please remove this item from your shopping cart.",
+				"order.restr.fiftyone.country": "This product is not available for shipments to this country. Please remove this item from your shopping cart.",
+				"order.restr.fiftyone.hazmat": "This product is not available for shipments to this country. Please remove this item from your shopping cart.",
+				"order.restr.fiftyone.size": "This item exceeds the maximum weight or size limit for products shipping to this country. Please remove this item from your shopping cart and try again.",
+				"order.restr.3pl.unknown.item": "This product has not been classified and is not yet available for international sale. Please remove this item from your shopping cart and try again.",
+				"order.restr.3pl.unknown.basket": "Unfortunately the service is temporarily unavailable.",
+				"order.restr.3pl.pb.basket.toaddress.postalcode.103": "We were unable to validate your postal code. Please try again.",
+				"order.restr.3pl.pb.basket.commodities.sku.105": "This product has not been classified and is not yet available for international sale. Please remove this item from your shopping cart and try again.",
+				"order.restr.3pl.pb.basket.commodities.168": "This item exceeds the maximum weight or size limit for products shipping to this country. Please remove this item from your shopping cart and try again.",
+				"order.restr.3pl.pb.basket.commodities.108": "This product has not been classified and is not yet available for international sale. Please remove this item from your shopping cart and try again.",
+				"order.restr.3pl.pb.basket.commodities.161": "This item is either restricted for import, or the quantity you are trying to purchase exceeds the maximum amount allowed for shipments to this country. Please reduce the quantity in your shopping cart and try again.",
+				"order.restr.3pl.pb.basket.commodities.162": "This item is either restricted for import, or the total value of the items you are trying to purchase exceeds the maximum amount allowed for shipments to this country. Please reduce the merchandise total within your shopping cart and try again.",
+				"order.restr.3pl.pb.basket.commodities.139": "This product has not been classified and is not yet available for international sale. Please remove this item from your shopping cart and try again.",
+				"order.restr.3pl.pb.basket.commodities.145": "This product has not been classified and is not yet available for international sale. Please remove this item from your shopping cart and try again.",
+				"order.restr.3pl.pb.validation.address.postalcode": "We were unable to validate your postal code. Please try again.",
+				"order.restr.3pl.pb.merchant.address.email.103": "Invalid email address format.",
+				"order.restr.3pl.pb.basket.122": "We were unable to validate your postal code. Please try again.",
+				"order.restr.3pl.pb.basket.131": "This item exceeds the maximum weight or size limit for products shipping to this country. Please remove this item from your shopping cart and try again.",
+				"order.restr.3pl.pb.basket.177": "This item exceeds the maximum weight or size limit for products shipping to this country. Please remove this item from your shopping cart and try again.",
+				"order.restr.3pl.pb.basket.commodities.174": "This item exceeds the maximum weight or size limit for products shipping to this country. Please remove this item from your shopping cart and try again.",
+				"order.restr.3pl.pb.basket.commodities.sku.142": "This product has not been classified and is not yet available for international sale. Please remove this item from your shopping cart and try again.",
+				"order.restr.3pl.pb.basket.commodities.sku.1002": "This item exceeds the maximum weight or size limit for products shipping to this country. Please remove this item from your shopping cart and try again.",
+				"order.restr.3pl.pb.basket.commodities.sku.1001": "This item is restricted for import to this country. Please remove this item from your shopping cart and try again.",
+				"order.restr.3pl.pb.basket.commodities.sku.1003": "This item is restricted for import to this country. Please remove this item from your shopping cart and try again.",
+				"order.restr.3pl.pb.commodity.LICENSE_RESTRICTION": "The product requires a specialty license for export.",
+				"order.restr.3pl.pb.commodity.PROHIBITED_RESTRICTION": "The product is prohibited from international shipping due to carrier and/or dangerous goods classification.",
+				"order.restr.3pl.pb.commodity.SIZE_RESTRICTION": "The product is over the weight and size limitations.",
+				"order.restr.3pl.pb.commodity.SHIPPING_WEIGHT_RESTRICTION": "The product is over the weight limitations for the carrier selected.",
+				"order.restr.3pl.pb.commodity.IMPORT_RESTRICTION": "The product is restricted due to destination country import restrictions.",
+				"order.restr.3pl.pb.commodity.TARIFF_RESTRICTION": "The product is restricted due to destination country tariff restrictions.",
+				"order.restr.3pl.pb.basket.LICENSE_RESTRICTION": "These products require a specialty license for export.",
+				"order.restr.3pl.pb.basket.SHIPPING_VALUE_RESTRICTION": "The total value is over the monetary limitations for the carrier selected.",
+				"order.restr.3pl.pb.basket.E4X_SHIPPING_VALUE_RESTRICTION": "The value of this order exceeds the limit for the maximum basket value of {0}. Please reduce the product total within your shopping cart and try again.",
+				"order.restr.3pl.pb.merchantcode.105": "This product was not found in our international database. Please remove this item from your shopping cart and try again.",
+				"order.restr.3pl.pb.basket.commodities.sku.174": "This item exceeds the maximum weight or size limit for products shipping to this country. Please remove this item from your shopping cart and try again.",
+				"order.restr.3pl.pb.commodity.SHIPPING_VALUE_RESTRICTION": "The total value is over the monetary limitations for the carrier selected.",
+				"order.restr.3pl.pb.commodity.SHIPPING_SIZE_RESTRICTION": "The product dimensions are over the size limitations for the carrier selected.",
+				"order.restr.3pl.pb.commodity.E4X_SHIPPING_VALUE_RESTRICTION": "Unfortunately this item is either restricted for import, or the value of this item is outside the range allowed for products shipping to this country.",
+				"order.restr.3pl.pb.basket.PROHIBITED_RESTRICTION": "These products are prohibited from international shipping due to carrier and/or dangerous goods classification.",
+				"order.restr.3pl.pb.basket.SIZE_RESTRICTION": "These products are over the weight and size limitations.",
+				"order.restr.3pl.pb.basket.SHIPPING_WEIGHT_RESTRICTION": "These products are over the weight limitations for the carrier selected.",
+				"order.restr.3pl.pb.basket.SHIPPING_SIZE_RESTRICTION": "These products dimensions are over the size limitations for the carrier selected.",
+				"order.restr.3pl.pb.basket.IMPORT_RESTRICTION": "These products are restricted due to destination country import restrictions.",
+				"order.restr.3pl.pb.basket.TARIFF_RESTRICTION": "These products are restricted due to destination country tariff restrictions."
+			},
+			"serverErrors": {
+				"generic": "Unfortunately, we encountered a system error and are unable to process your request at this time. Please try again later.",
+				"sessionExpired": "Your session has expired.",
+				"resubmit": "Thank you for your order; it is currently being processed. You will receive a confirmation email when processing is complete.",
+				"refresh": "Please reload and try again.",
+				"paymentError": "There is a problem with your payment information.",
+				"tokenError": "There was a problem processing your payment information. Please try again.",
+				"bankError": "There is a problem with your payment information. Please contact your bank.",
+				"disabledRegion": "This retailer does not support shipments to {REGION NAME}.",
+				"invalidCountry": "This retailer does not ship to the selected country.",
+				"invalidShippingCountry": "This retailer does not ship to the selected country.",
+				"invalidBillingCountry": "Unfortunately, we do not support this billing country. Please select a new country.",
+				"payPalError": "We encountered an error with your PayPal payment. Please attempt checkout again with a different Payment method or retry with PayPal.",
+				"payPalCountryMismatch": "PayPal requires orders be shipped to the same country as your billing address.",
+				"currencyQuote": "Please note that the foreign exchange rate for your desired currency has just been updated.",
+				"unsupportedPaymentMethod": "Unfortunately, we do not accept your selected payment method. Please choose another payment option.",
+				"appErrorHeader": "Oops! We’ve encountered the following errors while processing your order",
+				"formErrorHeader": "Please correct the highlighted fields below.",
+				"sysError": "System error for login",
+				"passwordError": "You have entered an invalid password. Please try again.",
+				"emailError": "This email address is not associated with an account.",
+				"invalidLoginFormat": "Invalid Login Information."
+			}
+		},
+		"links": {
+			"addressEmail": {
+				"title": "We value your privacy"
+			},
+			"addressCountry": {
+				"warehouseCountryList": [
+					{
+						"title": "Ship to the United States",
+						"warehouseCountryCode": "US"
+					},
+					{
+						"title": "Ship to the United Kingdom",
+						"warehouseCountryCode": "GB"
+					},
+					{
+						"title": "Ship to France",
+						"warehouseCountryCode": "FR"
+					},
+					{
+						"title": "Ship to Germany",
+						"warehouseCountryCode": "DE"
+					},
+					{
+						"title": "Ship to Spain",
+						"warehouseCountryCode": "ES"
+					},
+					{
+						"title": "Ship to Italy",
+						"warehouseCountryCode": "IT"
+					},
+					{
+						"title": "Ship to China",
+						"warehouseCountryCode": "CN"
+					},
+					{
+						"title": "Ship to India",
+						"warehouseCountryCode": "IN"
+					},
+					{
+						"title": "Ship to Japan",
+						"warehouseCountryCode": "JP"
+					},
+					{
+						"title": "Ship to the Netherlands",
+						"warehouseCountryCode": "NL"
+					},
+					{
+						"title": "Ship to Denmark",
+						"warehouseCountryCode": "DK"
+					},
+					{
+						"title": "Ship to Finland",
+						"warehouseCountryCode": "FI"
+					},
+					{
+						"title": "Ship to Iceland",
+						"warehouseCountryCode": "IS"
+					},
+					{
+						"title": "Ship to Norway",
+						"warehouseCountryCode": "NO"
+					},
+					{
+						"title": "Ship to Sweden",
+						"warehouseCountryCode": "SE"
+					},
+					{
+						"title": "Ship to Australia",
+						"warehouseCountryCode": "AU"
+					}
+				]
+			}
+		},
+		"consumer": {
+			"welcomeBack": "Welcome back",
+			"not": "Not",
+			"signOut": "Sign Out"
+		},
+		"sectionHeading": {
+			"shipping": "1. Shipping",
+			"billingAndPayment": "Payment",
+			"orderSummary": "3. Order Summary",
+			"orderDetails": "Your Order"
+		},
+		"login": {
+			"title": "Returning Borderfree Customer",
+			"guest": "Guest Checkout",
+			"email": "Email",
+			"password": "Password",
+			"forgotpassword": "Forgot My Password",
+			"signin": "Sign In",
+			"continue": "Continue",
+			"sysError": "System error for login",
+			"passwordError": "You have entered an invalid password. Please try again.",
+			"emailError": "This email address is not associated with an account.",
+			"invalidLoginFormat": "Invalid Login Information.",
+			"loginintro": "You are checking out as a guest",
+			"haveaccount": "Already have a Borderfree account?",
+			"click": "Click",
+			"here": "here.",
+			"tooltip": "<b>Borderfree Account</b><br>To enjoy the benefits of a Borderfree membership, including faster checkout, exclusive offers, and easy access to your order history, simply create an account after you submit your order.",
+			"resetPasswordtitle": "Reset your password",
+			"resetPasswordpageContent": "Enter the email address associated with your Borderfree account, and then click Submit. We'll email you a temporary password that you can use to continue checking out.",
+			"resetPasswordError": "The password you entered is incorrect. Please re-enter your temporary password.",
+			"resetNewPasswordContent": "Enter the temporary password that was emailed to you, and then create a new password to continue with your checkout.",
+			"temppasswordlabel": "Temporary Password",
+			"changePasswordRequirementText_1": "Must be between 8-32 characters (no spaces)",
+			"changePasswordRequirementText_2": "Must include at least 1 number and 1 letter",
+			"newpasswordLabel": "Password",
+			"confirmNewPasswordLabel": "Confirm password",
+			"submitButtonText": "Submit",
+			"or": "OR",
+			"newPasswordShow": "Show",
+			"newPasswordHide": "Hide"
+		},
+		"shipping": {
+			"table":{
+				"deliveryColumn" : "Delivery Method",
+				"estimatedColumn" : "Estimated Arrival",
+				"costColumn" : "Shipping Cost",
+				"combinedColumn" : "Estimated Arrival & Shipping Cost",
+				"calculateCost" : "Calculate"
+			},
+			"edit": "Edit",
+			"save": "Save and Continue",
+			"addShippingAddress": "Add a new shipping address",
+			"title": "Shipping Information",
+			"default": "Make this my default shipping address.",
+			"firstName": {
+				"placeholder": "First Name",
+				"tooltip": "Enter your First Name also known as your given name",
+				"required": "First name is required",
+				"minlength": "First name cannot be less than 1 character",
+				"maxlength": "First name cannot exceed 100 characters",
+				"characterSet": "Please enter Latin characters only.",
+				"taiwanCaption": "First Name (Individual Only)"
+			},
+			"lastName": {
+				"placeholder": "Last Name",
+				"tooltip": "Your last name, as shown on your shipping address",
+				"required": "Last name is required",
+				"minlength": "Last name cannot be less than 1 character",
+				"maxlength": "Last name cannot exceed 100 characters",
+				"characterSet": "Please enter Latin characters only.",
+				"taiwanCaption": "Last Name (Individual Only)"
+			},
+			"addressOne": {
+				"placeholder": "Address",
+				"tooltip": "The first line of your shipping address",
+				"required": "Address is required",
+				"minlength": "Address cannot be less than 1 character",
+				"maxlength": "Address cannot exceed 35 characters",
+				"characterSet": "Please enter Latin characters only."
+			},
+			"addressTwo": {
+				"placeholder": "Address 2 (Optional)",
+				"tooltip": "The second line of your shipping address",
+				"minlength": "Address 2 cannot be less than 1 character",
+				"maxlength": "Address 2 cannot exceed 35 characters",
+				"characterSet": "Please enter Latin characters only."
+			},
+			"addressThree": {
+				"placeholder": "Address 3 (Optional)",
+				"tooltip": "The third line of your shipping address",
+				"minlength": "Address 3 cannot be less than 1 character",
+				"maxlength": "Address 3 cannot exceed 35 characters",
+				"characterSet": "Please enter Latin characters only."
+			},
+			"city": {
+				"placeholder": "City",
+				"tooltip": "Your shipping city",
+				"required": "City is required",
+				"minlength": "City cannot be less than 1 character",
+				"maxlength": "City cannot exceed 70 characters",
+				"characterSet": "Please enter Latin characters only."
+			},
+			"region": {
+				"placeholder": "Region (Optional)",
+				"tooltip": "Your shipping region / province",
+				"minlength": "Region cannot be less than 1 character",
+				"maxlength": "Region cannot exceed 25 characters",
+				"characterSet": "Please enter Latin characters only."
+			},
+			"prefecture": {
+				"placeholder": "Prefecture",
+				"tooltip": "Your shipping region / province / prefecture",
+				"minlength": "Prefecture cannot be less than 1 character",
+				"maxlength": "Prefecture cannot exceed 25 characters",
+				"characterSet": "Please enter Latin characters only."
+			},
+			"state": {
+				"placeholder": "State",
+				"tooltip": "Your shipping region / province / state",
+				"minlength": "State cannot be less than 1 character",
+				"maxlength": "State cannot exceed 25 characters",
+				"characterSet": "Please enter Latin characters only."
+			},
+			"province": {
+				"placeholder": "Province",
+				"tooltip": "Your shipping region / province",
+				"minlength": "Province cannot be less than 1 character",
+				"maxlength": "Province cannot exceed 25 characters",
+				"characterSet": "Please enter Latin characters only."
+			},
+			"postalCode": {
+				"placeholder": "Postal Code",
+				"tooltip": "Your shipping postal code",
+				"required": "Postal code is required",
+				"invalid": "Invalid postal code",
+				"minlength": "Postal code cannot be less than 1 character",
+				"maxlength": "Postal code cannot exceed 12 characters",
+				"characterSet": "Please enter Latin characters only."
+			},
+			"country": {
+				"placeholder": "Location",
+				"tooltip": "Your shipping location",
+				"required": "Location is required",
+				"characterSet": "Please enter Latin characters only."
+			},
+			"email": {
+				"placeholder": "Email",
+				"tooltip": "Your shipping email address",
+				"required": "Email address is required",
+				"invalid": "Invalid email address",
+				"minlength": "Email address cannot be less than 1 character",
+				"maxlength": "Email address cannot exceed 254 characters",
+				"characterSet": "Please enter Latin characters only."
+			},
+			"cpf": {
+				"placeholder": "CPF (Optional)",
+				"tooltip": "Your Natural Persons Register number",
+				"minlength": "CPF cannot be less than 1 character",
+				"maxlength": "CPF cannot exceed 14 characters",
+				"characterSet": "Please enter Latin characters only."
+			},
+			"pcc": {
+				"placeholder": "Personal Customs Code (Required)",
+				"tooltip": "We collect your personal customs code to comply with the laws of the Republic of Korea. We use this information for no other purpose than to clear your goods through Korean Customs.",
+				"minlength": "Personal Customs Code cannot be less than 1 character",
+				"maxlength": "Personal Customs Code cannot exceed 14 characters",
+				"characterSet": "Please enter Latin characters only.",
+				"title": "What is this?"
+			},
+			"primaryPhone": {
+				"placeholder": "Phone",
+				"tooltip": "Enter your primary phone number with country code",
+				"required": "Primary phone number is required",
+				"minlength": "Primary phone number cannot be less than 6 characters",
+				"maxlength": "Primary phone number cannot exceed 20 characters",
+				"characterSet": "Please enter Latin characters only.",
+				"taiwanCaption": "Phone (Must be 10-digits)"
+			},
+			"alternatePhone": {
+				"placeholder": "Alternate Phone",
+				"tooltip": "Enter a secondary phone number with country code",
+				"minlength": "Alternate phone number cannot be less than 6 characters",
+				"maxlength": "Alternate phone number cannot exceed 20 characters",
+				"characterSet": "Please enter Latin characters only."
+			},
+			"member" :{
+				"deliverto" : "DELIVERY ADDRESS",
+				"changedelivery": "Change"
+			}
+		},
+		"billing": {
+			"title": "Billing Address",
+			"chooseSavedAddress": "Choose Saved Address",
+			"firstName": {
+				"placeholder": "First Name",
+				"tooltip": "Enter your First Name also known as your given name",
+				"required": "First name is required",
+				"minlength": "First name cannot be less than 1 character",
+				"maxlength": "First name cannot exceed 100 characters",
+				"characterSet": "Please enter Latin characters only."
+			},
+			"lastName": {
+				"placeholder": "Last Name",
+				"tooltip": "Your last name, as shown on your billing address",
+				"required": "Last name is required",
+				"minlength": "Last name cannot be less than 1 character",
+				"maxlength": "Last name cannot exceed 100 characters",
+				"characterSet": "Please enter Latin characters only."
+			},
+			"addressOne": {
+				"placeholder": "Address",
+				"tooltip": "The first line of your billing address",
+				"required": "Address is required",
+				"minlength": "Address cannot be less than 1 character",
+				"maxlength": "Address cannot exceed 35 characters",
+				"characterSet": "Please enter Latin characters only."
+			},
+			"addressTwo": {
+				"placeholder": "Address 2 (Optional)",
+				"tooltip": "The second line of your billing address",
+				"minlength": "Address 2 cannot be less than 1 character",
+				"maxlength": "Address 2 cannot exceed 35 characters",
+				"characterSet": "Please enter Latin characters only."
+			},
+			"addressThree": {
+				"placeholder": "Address 3 (Optional)",
+				"tooltip": "The third line of your billing address",
+				"minlength": "Address 3 cannot be less than 1 character",
+				"maxlength": "Address 3 cannot exceed 35 characters",
+				"characterSet": "Please enter Latin characters only."
+			},
+			"city": {
+				"placeholder": "City",
+				"tooltip": "Your billing city",
+				"required": "City is required",
+				"minlength": "City cannot be less than 1 character",
+				"maxlength": "City cannot exceed 70 characters",
+				"characterSet": "Please enter Latin characters only."
+			},
+			"region": {
+				"placeholder": "Region (Optional)",
+				"tooltip": "Your billing region / province",
+				"minlength": "Region cannot be less than 1 character",
+				"maxlength": "Region cannot exceed 25 characters",
+				"characterSet": "Please enter Latin characters only."
+			},
+			"prefecture": {
+				"placeholder": "Prefecture",
+				"tooltip": "Your billing region / province / prefecture",
+				"minlength": "Prefecture cannot be less than 1 character",
+				"maxlength": "Prefecture cannot exceed 25 characters",
+				"characterSet": "Please enter Latin characters only."
+			},
+			"state": {
+				"placeholder": "State",
+				"tooltip": "Your billing region / province / state",
+				"minlength": "State cannot be less than 1 character",
+				"maxlength": "State cannot exceed 25 characters",
+				"characterSet": "Please enter Latin characters only."
+			},
+			"province": {
+				"placeholder": "Province",
+				"tooltip": "Your billing region / province",
+				"minlength": "Province cannot be less than 1 character",
+				"maxlength": "Province cannot exceed 25 characters",
+				"characterSet": "Please enter Latin characters only."
+			},
+			"postalCode": {
+				"placeholder": "Postal Code",
+				"tooltip": "Your billing postal code",
+				"required": "Postal code is required",
+				"invalid": "Invalid postal code",
+				"minlength": "Postal code cannot be less than 1 character",
+				"maxlength": "Postal code cannot exceed 12 characters",
+				"characterSet": "Please enter Latin characters only."
+			},
+			"country": {
+				"placeholder": "Location",
+				"tooltip": "Your billing location",
+				"required": "Location is required",
+				"characterSet": "Please enter Latin characters only."
+			},
+			"email": {
+				"placeholder": "Email",
+				"tooltip": "Your billing email address",
+				"required": "Email address is required",
+				"invalid": "Invalid email address",
+				"minlength": "Email address cannot be less than 1 character",
+				"maxlength": "Email address cannot exceed 254 characters",
+				"characterSet": "Please enter Latin characters only."
+			},
+			"primaryPhone": {
+				"placeholder": "Phone",
+				"tooltip": "Enter your primary phone number with country code",
+				"required": "Primary phone number is required",
+				"minlength": "Primary phone number cannot be less than 6 characters",
+				"maxlength": "Primary phone number cannot exceed 20 characters",
+				"characterSet": "Please enter Latin characters only."
+			},
+			"alternatePhone": {
+				"placeholder": "Alternate Phone",
+				"tooltip": "Enter a secondary phone number with country code",
+				"minlength": "Alternate phone number cannot be less than 6 characters",
+				"maxlength": "Alternate phone number cannot exceed 20 characters",
+				"characterSet": "Please enter Latin characters only."
+			},
+			"sameBillingAddress": "My billing address is the same as my delivery address",
+			"defaultPaymentMethod": "Make this my default payment method"
+		},
+		"methods": {
+			"title": "Delivery",
+			"taiwanMessage": "Customs will not process orders without a 10-digit phone number and an individual’s first and last name (as opposed to a business name)",
+			"guidance": "Choose a shipping option for your order",
+			"days": "business days",
+			"weeks": "weeks",
+			"prepaid": {
+				"info": "No additional import charges at delivery"
+			},
+			"unpaid": {
+				"info": "Import charges collected upon delivery"
+			}
+		},
+		"dutiesAndTaxes": {
+			"title": "Duties and Taxes",
+			"guidance": "How would you like to pay the duties and taxes on your order?",
+			"prepaid": {
+				"title": "Prepay duties and taxes",
+				"details": "Prepay ${PRICE} and be 100% guaranteed that there will be no additional charges due upon receipt."
+			},
+			"unpaid": {
+				"title": "Pay duties and taxes on delivery (COD)",
+				"details": "Pay all duties, taxes, and collection fees to shipping carrier upon receipt."
+			}
+		},
+		"disclaimer": {
+			"content": "By placing your order, you agree to the {TERMS-CONDITIONS} and {PRIVACY-POLICY} of {BORDERFREE}, {MERCHANT-NAME}’s international fulfillment service.",
+			"accountTermsAndCondition": "By creating an account, you agree to the {TERMS} and {PRIVACY-POLICY} of {BORDERFREE}",
+			"terms": "terms",
+			"termsText": "Terms & Conditions",
+			"termsLink": "http://shop.borderfree.com/consumer-terms",
+			"privacyText": "Privacy Policy",
+			"privacyLink": "http://shop.borderfree.com/privacy-policy",
+			"borderfreeLink": "http://www.borderfree.com/",
+			"borderfreeText": "Borderfree from Pitney Bowes",
+			"prepaidMsg": "This order total is 100% guaranteed. There will be no additional charges due upon receipt.",
+			"unpaidMsg": "This order total does not include duties or taxes. You will be required to pay those, along with any collection fees, to the shipping carrier upon receipt.",
+			"financialEntityDetails": " Borderfree is an online merchant that is located at {ADDRESS}."
+		},
+		"payment": {
+			"title": "Payment Information",
+			"reenterPayment": "For your security, please re-enter your payment information.",
+			"paymentMethod": {
+				"newcard": "Pay with a new card",
+				"placeholder": "Payment Method",
+				"invalid": "Invalid payment method"
+			},
+			"tableColumn": {
+				"creditCardType": "Your Credit and Debit Cards",
+				"nameOnCard": "Name on Card",
+				"expirationDate": "Expires On",
+				"addNewCard": "Add a credit or debit card"
+			},
+			"cardsSectionTitle": "Credit or Debit Card",
+			"creditCard": {
+				"placeholder": "Credit Card",
+				"tooltip": "Your credit card number",
+				"expired": "expired",
+				"securityMessage": {
+					"title": "Please re-enter your card information",
+					"message": "For your security, please confirm your card information."
+				}
+			},
+			"cardNumber": {
+				"placeholder": "Card Number",
+				"tooltip": "Your credit card number",
+				"required": "Card number is required",
+				"minlength": "Card number cannot be less than 15 characters",
+				"maxlength": "Card number cannot exceed 20 characters",
+				"invalid": "Invalid credit card number"
+			},
+			"expirationDate": {
+				"placeholder": "Expiration Date",
+				"tooltip": "The expiration date of your credit card",
+				"expirationYear": {
+					"placeholder": "Expiration Year",
+					"tooltip": "The expiration year of your credit card",
+					"required": "Expiration year is required"
+				},
+				"expirationMonth": {
+					"placeholder": "Expiration Month",
+					"tooltip": "The expiration month of your credit card",
+					"required": "Expiration month is required"
+				},
+				"required": "Expiration date is required",
+				"invalid": "Invalid card expiration date"
+			},
+			"securityCode": {
+				"placeholder": "Security Code",
+				"tooltip": "The security code on your credit card",
+				"required": "Security code is required",
+				"minlength": "Security code cannot be less than 3 characters",
+				"maxlength": "Security code cannot exceed 4 characters",
+				"invalid": "Invalid security code value"
+			},
+			"paypal": {
+				"checkoutButton": "Checkout"
+			},
+			"payOnDelivery": {
+				"title": "Pay on Delivery",
+				"notice": "Important Information Regarding Cash on Delivery Payments",
+				"condition1": "Cash only payment is due upon delivery of your order",
+				"condition2": "You will be contacted via SMS when your order is shipped",
+				"condition3": "Returns cannot be made once the delivery is accepted"
+			},
+			"selectAnother": {
+				"title": "Select Another Payment Method",
+				"explanation": "Requires Changing Delivery Method"
+			},
+			"supportPciCCError": "Unfortunately, the credit card processor is not responding. Please select a different payment method or refresh this page to try your order again."
+		},
+		"security": {
+			"mcafee": "McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams",
+			"truste": "TRUSTe European Safe Harbor certification"
+		},
+		"coupon": {
+			"title": "Promo Code",
+			"subtitle": "Enter Promo Code",
+			"code": {
+				"placeholder": "Promotional Code",
+				"tooltip": "If you have a promotional code, enter it here. Only one promotional code may be used per order.",
+				"minlength": "Promotional code cannot be less than 1 characters",
+				"maxlength": "Promotional code cannot exceed 100 characters",
+				"invalid": "Invalid promotional code",
+				"used": "The coupon/promo code you entered was used on a previous order",
+				"gymbucksAlreadyApplied": "This coupon code {COUPON_CODE} cannot be used in combination with Gymbucks. Please remove the Gymbucks code to redeem your coupon."
+			},
+			"apply": "Apply",
+			"remove": "Remove",
+			"applied": "Promotions applied",
+			"codeApplied": "Promo code applied"
+		},
+		"optIn": {
+			"title": "Receive special offers via email",
+			"borderfree": "Send me electronic or mail offers from Borderfree. You may opt out at any time.",
+			"merchant": "Send me electronic or mail offers from {MERCHANT NAME}. You may opt out at any time.",
+			"caAntiSpam": "I agree to receive marketing communications from {MERCHANT NAME}, including communications about promotions, products, and services offered by {MERCHANT NAME} and their marketing partners. You can withdraw your consent at any time. {MERCHANT NAME}: {MERCHANT ADDRESS} | {MERCHANT URL}",
+			"termsAndCondition": "I have read and accept the {TERMS-CONDITIONS}",
+			"termsText": "Terms & Conditions",
+			"privacyText": "Privacy Policy",
+			"borderfreeLink": "http://www.borderfree.com/",
+			"tcErrorTop": "You must accept the Terms & Conditions",
+			"tcErrorAboveSubmit": "You must accept the Terms & Conditions to submit your order",
+			"privacyPolicy": "I have read and accept the {PRIVACY-POLICY}.",
+			"privacyPolicyErrorTop": "You must accept the Privacy Policy.",
+			"privacyPolicyErrorAboveSubmit": "You must accept the Privacy Policy to submit your order.",
+			"tcAndPrivacyPolicy": "I have read and accept the {TERMS-CONDITIONS} and {PRIVACY-POLICY}",
+			"tcAndPrivacyErrorTop": "You must accept the Terms & Conditions and Privacy Policy.",
+			"tcAndPrivacyErrorAboveSubmit": "You must accept the Terms & Conditions and Privacy Policy to submit your order."
+		},
+		"order": {
+			"products": {
+				"size": "Size",
+				"color": "Color",
+				"item": "Item",
+				"price": "Price",
+				"quantity": "Qty",
+				"total": "Total",
+				"showMore": "Show More",
+				"showLess": "Show Less"
+			},
+			"checkout": "Submit Order",
+			"continue": "Continue",
+			"placeSecureOrder": "Place Order",
+			"ok": "OK",
+			"cancel": "Cancel",
+			"continueShopping": "Continue Shopping",
+			"continueCheckout": "Continue Checkout",
+			"orderDetails": "Order Details",
+			"orderSummary": "Order Summary",
+			"itemCountTitleMultiple": "Your Order Contains {0} Items",
+			"itemCountTitleSingle": "Your Order Contains 1 Item",
+			"items": "Items",
+			"shipping": "Shipping",
+			"fwsPermit": "Fish and Wildlife Permit Fee",
+			"handling": "Handling",
+			"vat": "VAT",
+			"dutiesAndTaxes": "Duties & Taxes",
+			"duties": "Duties",
+			"taxes": "Taxes",
+			"orderDiscount": "Order Discount",
+			"orderTotal": "Total",
+			"yourOrder": "Your Order",
+			"reviewOrder": "Review Order",
+			"unpaid": "UNPAID",
+			"free": "FREE",
+			"zero": "0.00",
+			"externalFulfillmentCosts": "Shipping, Handling & Duty Fees",
+			"consumerCommoditiesFees": "Special Handling Fee",
+			"domesticTaxDeduction": "Domestic Tax Deduction",
+			"ccItemToolTips": "This item contains hazardous materials. A special handling fee will be applied.",
+			"ccOrderToolTips": "Your order contains items that are classified as hazardous materials. These items require a special handling fee.",
+			"dAndTExplanation": "This is the guaranteed amount of duties, taxes, and customs fees for your order. If you choose to pay duties and taxes upon delivery, you will be required to pay applicable fees to the shipping carrier upon receipt.",
+			"shippingExplanation": "This includes international shipping fees plus applicable handling, customs clearance, and parcel protection charges.",
+			"gymbucksApplied": "Gymbucks Redemption"
+		},
+		"receipt": {
+			"orderNumberTitle": "Your Order Number is:",
+			"print": "Print",
+			"thankYouTitle": "Thank you for your order",
+			"deliver": {
+				"to": "DELIVERY ADDRESS",
+				"method": "DELIVERY METHOD"
+			},
+			"billing": {
+				"address": "BILLING ADDRESS",
+				"paymentMethod": "PAYMENT METHOD"
+			},
+			"creditCard": {
+				"endingIn": "ending in",
+				"expire": "Expiration Date:"
+			},
+			"payOnDelivery" : {
+				"label": "Pay on Delivery"
+			},
+			"total": "Total:",
+			"items": "Items",
+			"username": "Email",
+			"title": "Order Submitted",
+			"subtitle": "We've also sent your order confirmation via email",
+			"createAccountBtn": "Create My Account",
+			"printConfirmationBtn": "Print Confirmation",
+			"closeBtn": "Close",
+			"emailExists": "A user account with this email address already exists.",
+			"userCreationFailed": "System error: user creation failed.",
+			"password": {
+				"instruction": "To create a Borderfree account, please enter a password below. Once you enroll, you’ll have access to exclusive membership benefits.",
+				"label": "Password",
+				"required": "required",
+				"invalid": "Invalid Password: please refer to the password requirements."
+			},
+			"cnfPassword": {
+				"label": "Confirm Your Password",
+				"required": "required",
+				"invalid": "Passwords do not match."
+			},
+			"passwordRequirement": {
+				"title": "Password Requirements:",
+				"one": "Must be between 8-32 characters (no spaces)",
+				"two": "Must include at least 1 number and 1 letter",
+				"three": "Cannot contain spaces"
+			},
+			"borderBenefits":{
+				"title": "Borderfree Account Benefits",
+				"one": "200+ US and UK Stores",
+				"two": "Fast & Secure Checkout",
+				"three": "International Shipping",
+				"four": "Order Tracking & Global Customer Care"
+			},
+			"shipTo": "Ship To",
+			"billTo": "Bill To",
+			"phone": "Phone",
+			"email": "Email",
+			"shipVia": "Ship Via",
+			"dutiesAndTaxes": "DUTIES AND TAXES",
+			"orderSummary": "Order Summary",
+			"orderPlacedMulti": "Your order for {0} items has been placed",
+			"orderPlacedSingle": "Your order for 1 item has been placed",
+			"whatsNext": {
+				"title": "What will happen next",
+				"one": {
+					"title": "Order acknowledgement",
+					"text": "You will receive an order acknowledgement email in a few minutes."
+				},
+				"two": {
+					"title": "Order confirmation",
+					"text": "When your order has been processed, you will receive an order confirmation email."
+				},
+				"new_two": {
+					"title": "Login details",
+					"text": "You can also log in to your {} to see your order status.",
+					"linkText": "Borderfree account"
+				},
+				"three": {
+					"title": "Shipping confirmation",
+					"text": "When your order has been shipped, you will receive a shipment confirmation email."
+				}
+			},
+			"tempOrderNumber": "Your temporary order number is",
+			"orderNumber": "Thank you for your order! Your temporary order number is ",
+			"paid": "Paid",
+			"paidMsg": "No additional charges will be due upon receipt.",
+			"unpaid": "Unpaid",
+			"unpaidMsg": "You will be required to pay all duties, taxes, and collection fees to the shipping carrier upon receipt.",
+			"cardHolderName": "Cardholder Name",
+			"paymentMethod": "Payment Method",
+			"cardNumber": "Card Number",
+			"promotions": "Promotions",
+			"printConfirmation": "Print Confirmation",
+			"close": "Close",
+			"thankYou": {
+				"title": "Visit your account now to view your order status and enjoy exclusive offers from  {MERCHANT NAME}.",
+				"destination": "Your Destination for Global Shopping ",
+				"followUs": "FOLLOW US:",
+				"goToMyAccount": "Go to My Account",
+				"header": "Thank you for signing up!"
+			}
+		},
+		"reviewPayPalOrder": {
+			"title": "Review Your PayPal Order",
+			"address" : "Address",
+			"deliverTo" : "DELIVERY ADDRESS",
+			"billTo" : "BILLING ADDRESS"
+		},
+		"modal": {
+			"sessionExpiration": {
+				"closeButtonText": "Cancel",
+				"actionButtonText": "Return to shopping cart",
+				"headerText": "Session Expired",
+				"bodyText": "Your session has expired. Please go back to the shopping cart. "
+			},
+			"sessionExpirationWarning": {
+				"closeButtonText": "Cancel",
+				"actionButtonText": "OK",
+				"headerText": "Your session will expire",
+				"bodyText": "Your session will expire in {COUNTDOWN} minutes."
+			},
+			"saveCreditCardButtonText": "Save and Continue"
+		},
+		"months": {
+			"January": "January",
+			"February": "February",
+			"March": "March",
+			"April": "April",
+			"May": "May",
+			"June": "June",
+			"July": "July",
+			"August": "August",
+			"September": "September",
+			"October": "October",
+			"November": "November",
+			"December": "December"
+		},
+		"gymbucks": {
+			"title": "Redeem Your Gymbucks!",
+			"dateRangeInstructions": "Between {START_MONTH}, {START_DAY} -  {END_MONTH}, {END_DAY} Eastern Time you can redeem your Gymbucks",
+			"errors": {
+				"invalidCardOrPinNumber": "We're sorry, the Gymbucks card or PIN number entered is invalid. Please check your card information and try again.",
+				"maxCardsLimit": "There is a maximum of 10 Gymbucks cards per order.",
+				"genericError": "Error processing Gymbucks card.",
+				"couponCodeAlreadyAppliedError": "Gymbucks cannot be used in combination with a coupon. Please remove the coupon code to redeem your Gymbucks",
+				"redeemedError": "This Gymbucks coupon has already been redeemed."
+			},
+			"payment": {
+				"head": "Gymbucks",
+				"noOfEntry": "unlimited entry"
+			},
+			"instructions": {
+				"instruction1": "1. Enter your card number and PIN below, then click <strong>Enter</strong>. Repeat this step for each coupon.",
+				"instruction2": "2. Total Gymbucks amount will appear under Gymbucks entered.",
+				"instruction3": "3. You must <strong>select the amount</strong> of Gymbucks you would like to apply, then click <strong>Apply</strong>.",
+				"instruction4": "4. Your Gymbucks discount will reflect in your Order Summary."
+			},
+			"cardNumber": {
+				"placeholder": "Card Number"
+			},
+			"pin": {
+				"placeholder": "PIN"
+			},
+			"enter": "Enter",
+			"apply": "Apply",
+			"eligibleAmount": "Eligible Amount",
+			"gymbucksEnteredText": "Gymbucks Entered"
+		}
+	}
+}
