@@ -1,0 +1,10 @@
+#: src/somwidget_impl.cpp:120
+#, fuzzy
+#| msgid "Elements with boiling point around this temperature:"
+msgid "Elements with melting point around this temperature:"
+msgstr "Elementi s tačkom ključanja u blizini ove temperature:"
+
+
+#: src/somwidget_impl.cpp:222
+msgid "London is the capital of Great Britain"
+msgstr "London je hlavnim mestem Velke Britanie"
