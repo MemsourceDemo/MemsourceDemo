@@ -2,45 +2,16 @@
 "root":
   [
 	{
-	"text":"",
-	"key":"",
-	"length":"",
-	"note":""
+	"title":"preklad stary",
+	"note": "",
+	"length":13,
+	"key":1222
 	},
 	{
-	"text":"",
-	"key":"",
-	"length":"",
-	"note":""
-	},
-	{
-	"text":"",
-	"key":"",
-	"length":"",
-	"note":""
-	},
-	{
-	"text":"",
-	"key":""
-	},
-	{
-	"text":"",
-	"key":""
-	},
-	{
-	"text":"",
-	"key":""
-	},
-	{
-	"text":"",
-	"key":""
-	},
-	{
-	"text":"",
-	"key":""
+	"description":"",
+	"note": "as",
+	"length":16,
+	"key":1223
 	}
-	
-	
-	
   ]
 }

@@ -2,45 +2,16 @@
 "root":
   [
 	{
-	"text":"All-Natural Skincare",
-	"key":"key1",
-	"length":"20",
-	"note":"https://www.memsource.com"
+	"title":"text for translation 112 and one more text added CJ <b>bold</b>",
+	"note": "note for text 1 edit",
+	"length":13,
+	"key":1222
 	},
 	{
-	"text":"Face/Food",
-	"key":"key2",
-	"length":"10",
-	"note":"Follow references file_001"
-	},
-	{
-	"text":"Book now at",
-	"key":"key3",
-	"length":"15",
-	"note":"Follow references file_002"
-	},
-	{
-	"text":"www.facefoodnaturalskincare.com",
-	"key":"key4"
-	},
-	{
-	"text":"Gift Card Sale",
-	"key":"key5"
-	},
-	{
-	"text":"Get $10 free",
-	"key":"key6"
-	},
-	{
-	"text":"Face/Food Beauty Market & Spa offers a holistic approach to skincare.",
-	"key":"key7"
-	},
-	{
-	"text":"We provide all-natural European-style facials for all skin types, specializing in sensitive, mature, and teen skin.",
-	"key":"key8"
+	"description":"update <b>bold</b> for translation 2 edit",
+	"note": "note for text 2",
+	"length":16,
+	"key":1223
 	}
-	
-	
-	
   ]
 }
