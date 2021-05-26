@@ -1,8 +1,8 @@
 {
     "TM": {
           "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
-          "TITLE": "GESTION DE LA TRADUCTION (changement)",
-          "CONTENT": "Traduisez quelques chaînes logicielles ou déployez Memsource pour automatiser les traductions dans votre organisation mondiale. Que vous utilisiez des linguistes internes, des sociétés de traduction ou de traduction automatique, Memsource fournit tout ce dont vous avez besoin pour automatiser le processus de bout en bout, notamment des connecteurs CMS prêts à l'emploi, de puissantes fonctionnalités de localisation continue et une riche API REST.",
+          "TITLE": "GESTION DE TRADUCTION (modification) (version 1)",
+          "CONTENT": "Traduisez quelques chaînes logicielles ou déployez Memsource pour automatiser les traductions de votre organisation mondiale. Que vous utilisiez des linguistes, des sociétés de traduction ou de la traduction automatique, Memsource fournit tout ce dont vous avez besoin pour automatiser le processus de bout en bout, y compris les connecteurs CMS hors de la boîte, les puissantes fonctionnalités de localisation continue et la riche API REST.",
           "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/307d5c6296b7d278c544d6d18898faadca85c682/d3013/assets/images/features/translation-management.png\"></img></td></tr></table>"
         }
 
