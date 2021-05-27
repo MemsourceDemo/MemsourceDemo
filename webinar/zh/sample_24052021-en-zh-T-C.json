@@ -1,8 +1,8 @@
 {
     "TM": {
           "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
-          "TITLE": "",
-          "CONTENT": "",
+          "TITLE": "翻译管理（更改）（版本1）",
+          "CONTENT": "翻译一些软件字符串或部署Memsource来自动化您全球组织中的翻译。无论您是使用内部语言学家，翻译公司还是机器翻译，Memsource均可提供端到端自动化流程所需的全部功能，包括现成的CMS连接器，强大的连续本地化功能和丰富的REST API。",
           "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/307d5c6296b7d278c544d6d18898faadca85c682/d3013/assets/images/features/translation-management.png\"></img></td></tr></table>"
         }
 
