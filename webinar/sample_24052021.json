@@ -3,17 +3,7 @@
           "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
           "TITLE": "TRANSLATION MANAGEMENT (change) (version 1)",
           "CONTENT": "Translate a few software strings or deploy Memsource to automate translations in your global organization. Whether you use in-house linguists, translation companies, or machine translation, Memsource provides all you need to automate the process end-to-end, including out-of-the box CMS connectors, powerful continuous localization features, and rich REST API.",
-          "PICTURE": "<!DOCTYPE html>
-<html>
-<body>
-
-<h2>HTML Images</h2>
-<p>HTML images are defined with the img tag:</p>
-
-<img src=\"w3schools.jpg\" alt=\"W3Schools.com\" width=\"104\" height=\"142\">
-
-</body>
-</html>"
+          "PICTURE": "<html><body><h2>HTML Images</h2><p>HTML images are defined with the img tag:</p><img src=\"w3schools.jpg\" alt=\"W3Schools.com\" width=\"104\" height=\"142\"></body></html>"
         }
 
 }
