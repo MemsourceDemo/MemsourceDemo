@@ -3,7 +3,7 @@
           "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
           "TITLE": "ÜBERSETZUNGSMANAGEMENT (Änderung) (Version 1)",
           "CONTENT": "Übersetzen Sie einige Softwarezeichenfolgen oder stellen Sie Memsource bereit, um Übersetzungen in Ihrer globalen Organisation zu automatisieren. Unabhängig davon, ob Sie interne Linguisten, Übersetzungsunternehmen oder maschinelle Übersetzungen verwenden, bietet Memsource alles, was Sie zur End-to-End-Automatisierung des Prozesses benötigen, einschließlich sofort einsatzbereiter CMS-Konnektoren, leistungsstarker Funktionen zur kontinuierlichen Lokalisierung und einer umfassenden REST-API.",
-          "PICTURE": "<html><body><h2>HTML Images</h2><p>HTML images are defined with the img tag:</p><img src=\"w3schools.jpg\" alt=\"W3Schools.com\" width=\"104\" height=\"142\"></body></html>"
+          "PICTURE": "<html><body><h2>HTML Images</h2><p>HTML images are defined with the img tag:</p><img src=\"https://www.w3schools.com/html/w3schools.jpg\" alt=\"W3Schools.com\" width=\"104\" height=\"142\"></body></html>"
         }
 
 }
