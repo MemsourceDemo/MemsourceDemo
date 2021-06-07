@@ -2,7 +2,7 @@
 {
     "TM": {
           "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
-          "TITLE": "GESTION DE LA TRADUCTION (changement de version 2)",
+          "TITLE": "GESTION DE LA TRADUCTION (changement de version 1)",
           "CONTENT": "Traduisez quelques chaînes logicielles ou déployez Memsource pour automatiser les traductions dans votre organisation mondiale. Que vous utilisiez des linguistes internes, des sociétés de traduction ou la traduction automatique, Memsource fournit tout ce dont vous avez besoin pour automatiser le processus de bout en bout, y compris des connecteurs CMS prêts à l'emploi, de puissantes fonctionnalités de localisation continue et une API REST riche.",
           "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/307d5c6296b7d278c544d6d18898faadca85c682/d3013/assets/images/features/translation-management.png\"></img></td></tr></table>"
         },
@@ -14,7 +14,7 @@
         },
     "API": {
           "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
-          "TITLE": "API REST ET CONNECTEURS",
+          "TITLE": "API DE REPOS ET CONNECTEURS",
           "CONTENT": "Connectez Memsource à votre CMS tel que Sitecore, AEM, WordPress, Drupal ou à d'autres systèmes tels que Git, Magento, Zendesk, Marketo, HubSpot, Google Drive, Dropbox, etc., pour envoyer de manière transparente et sécurisée des fichiers à traduire et les récupérer avec une automatisation complète de bout en bout. Ou créez une intégration personnalisée à l'aide de notre API REST, qui offre une couverture complète des fonctionnalités de Memsource.",
           "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/9ca1b78e4e692201a30e37f1a262ad340a1ffd91/571c7/assets/images/features/connectors.png\"></img></td></tr></table>"
         },
