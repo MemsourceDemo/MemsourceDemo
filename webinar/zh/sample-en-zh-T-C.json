@@ -2,32 +2,32 @@
 {
     "TM": {
           "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
-          "TITLE": "",
-          "CONTENT": "翻译几个软件字符串或部署 Memsource 以在您的全球组织中自动进行翻译。无论您是使用内部语言专家、翻译公司还是机器翻译，Memsource 都能为您提供端到端自动化流程所需的一切，包括开箱即用的 CMS 连接器、强大的持续本地化功能和丰富的 REST API。",
+          "TITLE": "翻译管理（更改版本1）",
+          "CONTENT": "翻译一些软件字符串或部署Memsource以在您的全球组织中自动执行翻译。无论您使用内部语言学家、翻译公司还是机器翻译，Memsource都提供了端到端自动化过程所需的一切，包括开箱即用的CMS连接器、强大的连续本地化功能和丰富的REST API。",
           "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/307d5c6296b7d278c544d6d18898faadca85c682/d3013/assets/images/features/translation-management.png\"></img></td></tr></table>"
         },
     "AI": {
           "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
           "TITLE": "人工智能",
-          "CONTENT": "Memsource 通过将传统翻译技术与最先进的人工智能相结合，为降低翻译成本提供了独特的方法获得专利的 AI 技术能够识别可以高质量自动翻译的内容。",
+          "CONTENT": "Memsource将传统翻译技术与最先进的人工智能相结合，为降低翻译成本的独特方法申请了专利。获得专利的AI技术能够识别可以高质量自动翻译的内容。",
           "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/573535191db00f97b0884ae82d72efe44080807c/c274b/assets/images/features/artificial-intelligence.png\"></img></td></tr></table>"
         },
     "API": {
           "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
-          "TITLE": "REST API 和连接器",
-          "CONTENT": "将 Memsource 与您的内容管理系统（如 Sitecore、AEM、WordPress、Drupal 或 Git、Magento、Zendesk、Marketo、HubSpot、谷歌云端硬盘、Dropbox 等其他系统连接起来，以便无缝安全地发送文件进行翻译，并以完全端到端自动化方式接收文件。或者，使用我们的 REST API 构建自定义集成，该 API 全面介绍了 Memsource 的功能。",
+          "TITLE": "REST API和连接器",
+          "CONTENT": "将Memsource与您的CMS（如Sitecore、AEM、WordPress、Drupal）或其他系统（如Git、Magento、Zendesk、Marketo、HubSpot、Google Drive、Dropbox等）连接，以完全端到端自动化的方式无缝、安全地发送用于翻译的文件并将其接收回来。或者，使用我们的REST API构建自定义集成，它提供了对Memsource功能的全面覆盖。",
           "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/9ca1b78e4e692201a30e37f1a262ad340a1ffd91/571c7/assets/images/features/connectors.png\"></img></td></tr></table>"
         },
     "MT": {
           "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
           "TITLE": "机器翻译",
-          "CONTENT": "由于 Memsource 集成了 30 多个机器翻译引擎，可以选择适合您的引擎，从而降低翻译成本。利用 Memsource 的 AI 驱动的机器翻译质量估算，能够评估每个引擎的输出，进一步增强该流程。",
+          "CONTENT": "选择适合您的发动机得益于Memsource中集成的30多个机器翻译发动机，以降低翻译成本。通过利用Memsource的AI-机器翻译质量评估，进一步增强该过程，能够评估每个发动机的输出。",
           "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/d1c1ce12b27e98c569eb387b5e6caaa6c0aa7976/4023f/assets/images/features/machine-translation.png\"></img></td></tr></table>"
         },
     "EDITOR": {
           "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
-          "TITLE": "在 MEMSOURCE 中翻译",
-          "CONTENT": "使用 Memsource 进行翻译是直观的、协作的，可在所有平台上访问。翻译人员可以选择在三种环境中工作：适用于 Web 的 Memsource 编辑器，可在任何支持的浏览器上使用；用于桌面的 Memsource 编辑器，可与云实时同步并支持离线工作；适用于移动的 Memsource 编辑器，可在 iOS 和 Android 设备上访问。",
+          "TITLE": "在MEMSOURCE中翻译",
+          "CONTENT": "在Memsource中翻译是直观的、协作的，并且可以跨所有平台访问。翻译人员可以选择在三种环境中工作：Memsource Editor for Web，可在任何支持的浏览器上使用; Memsource Editor for Desktop，与云端实时同步，支持离线工作; Memsource Editor for Mobile，可在iOS和Android设备上访问。",
           "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/fdc6eaa29127214b8416e93b0ca6eb40a9357e4d/8152e/assets/images/features/translating-memsource.png\"></img></td></tr></table>"
         }
 
