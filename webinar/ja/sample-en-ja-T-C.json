@@ -2,7 +2,7 @@
 {
     "TM": {
           "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
-          "TITLE": "",
+          "TITLE": "翻訳管理 (変更バージョン 1)",
           "CONTENT": "いくつかのソフトウェア文字列を翻訳するか、Memsourceをデプロイして、グローバル組織での翻訳を自動化します。社内の言語学者、翻訳会社、機械翻訳のいずれを使用する場合でも、Memsourceは、すぐに使用できるCMSコネクタ、強力な継続的ローカリゼーション機能、豊富なREST APIなど、プロセスをエンドツーエンドで自動化するために必要なすべてを提供します。",
           "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/307d5c6296b7d278c544d6d18898faadca85c682/d3013/assets/images/features/translation-management.png\"></img></td></tr></table>"
         },
