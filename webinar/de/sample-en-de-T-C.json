@@ -2,32 +2,32 @@
 {
     "TM": {
           "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
-          "TITLE": "TRANSLATION MANAGEMENT",
-          "CONTENT": "Übersetzen Sie einige Software-Strings oder stellen Sie Memsource bereit, um Übersetzungen in Ihrem globalen Unternehmen zu automatisieren. D Unabhängig davon, ob Sie interne Linguisten, Übersetzungsunternehmen oder maschinelle Übersetzung verwenden, Memsource bietet alles, was Sie zur End-to-End-Automatisierung des Prozesses benötigen, einschließlich vorkonfigurierter CMS-Konnektoren, leistungsstarker kontinuierlicher Lokalisierungsfunktionen und umfassender REST-API.",
+          "TITLE": "",
+          "CONTENT": "Übersetzen Sie einige Software-Strings oder stellen Sie Memsource bereit, um Übersetzungen in Ihrem globalen Unternehmen zu automatisieren. D Unabhängig davon, ob Sie interne Linguisten, Übersetzungsunternehmen oder maschinelle Übersetzung einsetzen, bietet Memsource alles, was Sie zur durchgängigen Automatisierung des Prozesses benötigen, einschließlich sofort einsatzbereiter CMS-Konnektoren, leistungsstarker Funktionen für die kontinuierliche Lokalisierung und einer umfangreichen REST-API.",
           "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/307d5c6296b7d278c544d6d18898faadca85c682/d3013/assets/images/features/translation-management.png\"></img></td></tr></table>"
         },
     "AI": {
           "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
           "TITLE": "KÜNSTLICHE INTELLIGENZ",
-          "CONTENT": "Memsource hat einen einzigartigen Ansatz zur Reduzierung der Übersetzungskosten patentiert, indem traditionelle Übersetzungstechnologie mit modernster künstlicher Intelligenz kombiniert wird. Die patentierte KI-Technologie ist in der Lage, Inhalte zu identifizieren, die automatisch in hoher Qualität übersetzt werden können.",
+          "CONTENT": "Memsource hat einen einzigartigen Ansatz zur Senkung der Übersetzungskosten patentiert, indem traditionelle Übersetzungstechnologie mit modernster künstlicher Intelligenz kombiniert wird. Die patentierte KI-Technologie ist in der Lage, Inhalte zu identifizieren, die automatisch in hoher Qualität übersetzt werden können.",
           "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/573535191db00f97b0884ae82d72efe44080807c/c274b/assets/images/features/artificial-intelligence.png\"></img></td></tr></table>"
         },
     "API": {
           "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
-          "TITLE": "REST-API UND ANSCHLÜSSE",
-          "CONTENT": "Verbinden Sie Memsource mit Ihrem CMS wie Sitecore, AEM, WordPress, Drupal oder anderen Systemen wie Git, Magento, Zendesk, Marketo, HubSpot, Google Drive, Dropbox und mehr, um Dateien nahtlos und sicher zur Übersetzung zu senden und zurück zu erhalten mit vollständiger End-to-End-Automatisierung. Oder erstellen Sie eine benutzerdefinierte Integration mit unserer REST-API, die eine umfassende Abdeckung der Funktionen von Memsource bietet.",
+          "TITLE": "REST API UND ANSCHLÜSSE",
+          "CONTENT": "Verbinden Sie Memsource mit Ihrem CMS wie Sitecore, AEM, WordPress, Drupal oder anderen Systemen wie Git, Magento, Zendesk, Marketo, HubSpot, Google Drive, Dropbox und mehr, um Dateien nahtlos und sicher zur Übersetzung zu senden und sie mit vollständiger End-to-End-Automatisierung zurückzubekommen. Oder erstellen Sie eine benutzerdefinierte Integration mithilfe unserer REST-API, die eine umfassende Abdeckung der Memsource-Funktionalität bietet.",
           "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/9ca1b78e4e692201a30e37f1a262ad340a1ffd91/571c7/assets/images/features/connectors.png\"></img></td></tr></table>"
         },
     "MT": {
           "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
-          "TITLE": "MASCHINENÜBERSETZUNG",
-          "CONTENT": "Wählen Sie dank der über 30 in Memsource integrierten Maschinenübersetzungs-Engines die für Sie geeignete Engine, um die Übersetzungskosten zu senken. Verbessern Sie den Prozess weiter, indem Sie die KI-gestützte Qualitätsschätzung der maschinellen Übersetzung von Memsource nutzen, die in der Lage ist, die Ausgabe jeder Engine zu bewerten.",
+          "TITLE": "MASCHINELLE ÜBERSETZUNG",
+          "CONTENT": "Wählen Sie die Engine aus, die für Sie am besten geeignet ist - dank der über 30 in Memsource integrierten maschinellen Übersetzungsengines, die die Übersetzungskosten senken. Verbessern Sie den Prozess weiter, indem Sie die KI-gestützte Qualitätseinschätzung für maschinelle Übersetzungen von Memsource nutzen, die in der Lage ist, den Output jeder Engine zu bewerten.",
           "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/d1c1ce12b27e98c569eb387b5e6caaa6c0aa7976/4023f/assets/images/features/machine-translation.png\"></img></td></tr></table>"
         },
     "EDITOR": {
           "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
           "TITLE": "ÜBERSETZEN IN MEMSOURCE",
-          "CONTENT": "Das Übersetzen in Memsource ist intuitiv, kollaborativ und auf allen Plattformen zugänglich. Übersetzer haben die Möglichkeit, in drei Umgebungen zu arbeiten: Memsource Editor für Web, verfügbar in jedem unterstützten Browser; Memsource Editor for Desktop, der sich in Echtzeit mit der Cloud synchronisiert und Offline-Arbeiten unterstützt; Memsource Editor für Mobile, zugänglich auf iOS- und Android-Geräten.",
+          "CONTENT": "Das Übersetzen in Memsource ist intuitiv, kollaborativ und über alle Plattformen hinweg zugänglich. Übersetzer haben die Möglichkeit, in drei Umgebungen zu arbeiten: Memsource Editor für Web, verfügbar auf jedem unterstützten Browser; Memsource Editor für Desktop, der in Echtzeit mit der Cloud synchronisiert und Offline-Arbeit unterstützt; Memsource Editor für Mobile, zugänglich auf iOS- und Android-Geräten.",
           "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/fdc6eaa29127214b8416e93b0ca6eb40a9357e4d/8152e/assets/images/features/translating-memsource.png\"></img></td></tr></table>"
         }
 
