@@ -14,7 +14,7 @@
         },
     "API": {
           "ID": "20a0f20cf5d97e3c17a24dab0970b2bf",
-          "TITLE": "API DE REPOS ET CONNECTEURS",
+          "TITLE": "API ET CONNECTEURS REST",
           "CONTENT": "Connectez Memsource à votre CMS tel que Sitecore, AEM, WordPress, Drupal ou à d'autres systèmes tels que Git, Magento, Zendesk, Marketo, HubSpot, Google Drive, Dropbox, etc., pour envoyer de manière transparente et sécurisée des fichiers à traduire et les récupérer avec une automatisation complète de bout en bout. Ou créez une intégration personnalisée à l'aide de notre API REST, qui offre une couverture complète des fonctionnalités de Memsource.",
           "PICTURE": "<table><tr><td valign=\"top\" width=\"250\"><img src=\"https://d33wubrfki0l68.cloudfront.net/9ca1b78e4e692201a30e37f1a262ad340a1ffd91/571c7/assets/images/features/connectors.png\"></img></td></tr></table>"
         },
