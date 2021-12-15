@@ -1,2 +1,2 @@
 content to be translated
-a
+extra text
