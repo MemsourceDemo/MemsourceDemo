@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<comments xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="xr" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision"><authors><author>10097647</author><author>_</author><author>フジノン株式会社</author><author>tc={EB239400-263E-48AE-AECA-0361E5FCAE4D}</author><author>USER</author><author>富士フイルム株式会社</author><author>10026113</author></authors><commentList><comment ref="E3" authorId="0" shapeId="0" xr:uid="{00000000-0006-0000-0000-000001000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>各ハザードに対する個別の評価結果</t></r></text></comment><comment ref="A4" authorId="1" shapeId="0" xr:uid="{00000000-0006-0000-0000-000002000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>機種名（型番）だけではどのような製品か伝わりづらい場合があるため、製品の特徴を端的に説明する項目。リストから該当するものを選択。
+※薬事や規格等で要求されている文言ではありません</t></r></text></comment><comment ref="B6" authorId="1" shapeId="0" xr:uid="{00000000-0006-0000-0000-000003000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>適用規格：設計インプットの記載、製品の仕向け地と整合をとること</t></r></text></comment><comment ref="B7" authorId="1" shapeId="0" xr:uid="{00000000-0006-0000-0000-000004000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>規格適合リストシート参照
+該当年版がない場合は直接入力する</t></r></text></comment><comment ref="B8" authorId="1" shapeId="0" xr:uid="{00000000-0006-0000-0000-000005000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>規格適合リストシート参照
+該当年版がない場合は直接入力する</t></r></text></comment><comment ref="E8" authorId="0" shapeId="0" xr:uid="{00000000-0006-0000-0000-000006000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t xml:space="preserve">一つ一つのリスクコントロールとしては適切でも、全体で見ると成り立っていない、
+または却ってリスクが増加していることがあるので、その観点で評価すること
+(評価基準は K14N03365.13項(1)～(5))
+
+　例)相反するリスクコントロールになってしまっているため追加のリスクコントロール等が必要になる場合
+　　　　　　　意識不明の患者が診察台から落下するリスクに対処するための指示
+　　　　　　　　　⇒　“意識不明の患者を付添いなしで放置してはならない”
+　　　　　　　医療スタッフをX線暴露から防護するための指示
+　　　　　　　　　⇒　“X線画像取得時は,防護スクリーンの後ろに立つこと”
+
+　その他)警告はそれ自体は個々のリスクに対する十分なリスク低減であるが、
+　　　　　　　警告の数が多過ぎるとユーザーを混乱させ,個々の警告の効果が薄れることがある。
+</t></r></text></comment><comment ref="B9" authorId="1" shapeId="0" xr:uid="{00000000-0006-0000-0000-000007000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>規格適合リストシート参照
+該当年版がない場合は直接入力する</t></r></text></comment><comment ref="B10" authorId="1" shapeId="0" xr:uid="{00000000-0006-0000-0000-000008000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>規格適合リストシート参照
+該当年版がない場合は直接入力する</t></r></text></comment><comment ref="B11" authorId="1" shapeId="0" xr:uid="{00000000-0006-0000-0000-000009000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>規格適合リストシート参照
+該当年版がない場合は直接入力する</t></r></text></comment><comment ref="B12" authorId="1" shapeId="0" xr:uid="{00000000-0006-0000-0000-00000A000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>規格適合リストシート参照
+該当年版がない場合は直接入力する</t></r></text></comment><comment ref="B13" authorId="1" shapeId="0" xr:uid="{00000000-0006-0000-0000-00000B000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>規格適合リストシート参照
+該当年版がない場合は直接入力する</t></r></text></comment><comment ref="B14" authorId="1" shapeId="0" xr:uid="{00000000-0006-0000-0000-00000C000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>規格適合リストシート参照
+該当年版がない場合は直接入力する</t></r></text></comment><comment ref="B15" authorId="1" shapeId="0" xr:uid="{00000000-0006-0000-0000-00000D000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>規格適合リストシート参照
+該当年版がない場合は直接入力する</t></r></text></comment><comment ref="B16" authorId="1" shapeId="0" xr:uid="{00000000-0006-0000-0000-00000E000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>規格適合リストシート参照
+該当年版がない場合は直接入力する</t></r></text></comment><comment ref="E16" authorId="0" shapeId="0" xr:uid="{00000000-0006-0000-0000-00000F000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>妥当性確認フェーズ以降は設計の妥当性確認結果報告書番号を記載すること
+
+(2021年MDSAP指摘)
+リスクコントロール手段の</t></r><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>有効性を検証</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>し、この</t></r><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>検証の結果を</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>リスクマネジメントファイルに</t></r><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>記録</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>する。
+https://drive.google.com/file/d/1Q8bMt5UuoHfOyWNbb0i63C6bWJY29rot/view</t></r></text></comment><comment ref="B17" authorId="1" shapeId="0" xr:uid="{00000000-0006-0000-0000-000010000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>規格適合リストシート参照
+該当年版がない場合は直接入力する</t></r></text></comment><comment ref="B18" authorId="1" shapeId="0" xr:uid="{00000000-0006-0000-0000-000011000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>規格適合リストシート参照
+該当年版がない場合は直接入力する</t></r></text></comment><comment ref="H32" authorId="0" shapeId="0" xr:uid="{00000000-0006-0000-0000-000012000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>異常使用(意図的な誤使用)と
+使用エラー(意図的でない誤使用)
+の両方</t></r></text></comment><comment ref="I32" authorId="2" shapeId="0" xr:uid="{00000000-0006-0000-0000-000013000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>製品の特性および想定されるハザードを明記し危害発生までの過程を第三者がみて理解できる程度でかつ端的に記載する</t></r></text></comment><comment ref="S32" authorId="3" shapeId="0" xr:uid="{00000000-0006-0000-0000-000014000000}"><text><r><rPr><sz val="11"/><rFont val="ＭＳ ゴシック"/><family val="3"/><charset val="128"/></rPr><t>[スレッド化されたコメント]
+
+使用している Excel のバージョンでは、このスレッド化されたコメントを表示できますが、新しいバージョンの Excel でファイルを開いた場合はコメントに対する編集がすべて削除されます。詳細: https://go.microsoft.com/fwlink/?linkid=870924
+
+コメント:
+    本フェーズではS列まで
+TUV,Y,Z列も記載が望ましい</t></r></text></comment><comment ref="K34" authorId="2" shapeId="0" xr:uid="{00000000-0006-0000-0000-000015000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>DL：被害程度
+1.死亡
+2.終身障害もしくは命に関わる負傷
+3.入院・入院延長
+4.通院もしくは治療必要
+5.治療不要</t></r></text></comment><comment ref="L34" authorId="2" shapeId="0" xr:uid="{00000000-0006-0000-0000-000016000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>GF：発生頻度</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ ゴシック"/><family val="3"/><charset val="128"/></rPr><t xml:space="preserve">
+１．頻繁に発生　　　　1症例毎 ≧ 1/50症例　（　≧　1/週）
+２．しばしば発生　　　≧　1/200症例　　　　（　≧　1/月） 
+３．時々発生　　　　　≧　1/1200症例 　　　（　≧　1/6ヶ月）
+４．わずかに発生　　　≧　1/2400症例 　　　（　≧　1/年）
+５．起こりそうにない　≧　1/12000症例　　　（　≧　1/5年）
+６．考えられない　　　＜　1/12000症例　　　（　＜　1/10年）</t></r></text></comment><comment ref="M34" authorId="2" shapeId="0" xr:uid="{00000000-0006-0000-0000-000017000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>L：レベル
+程度・頻度基準より算出</t></r></text></comment><comment ref="O34" authorId="2" shapeId="0" xr:uid="{00000000-0006-0000-0000-000018000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>DT：設計移管
+設計移管が必要な場合，○を記入する
+例)プロバリや最終検査標準でリスク低減する場合など</t></r></text></comment><comment ref="P34" authorId="2" shapeId="0" xr:uid="{00000000-0006-0000-0000-000019000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>DL：被害程度
+1.死亡
+2.終身障害もしくは命に関わる負傷
+3.入院・入院延長
+4.通院もしくは治療必要
+5.治療不要</t></r></text></comment><comment ref="Q34" authorId="2" shapeId="0" xr:uid="{00000000-0006-0000-0000-00001A000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>GF：発生頻度
+１．頻繁に発生　　　　1症例毎 ≧ 1/50症例　（　≧　1/週）
+２．しばしば発生　　　≧　1/200症例　　　　（　≧　1/月） 
+３．時々発生　　　　　≧　1/1200症例 　　　（　≧　1/6ヶ月）
+４．わずかに発生　　　≧　1/2400症例 　　　（　≧　1/年）
+５．起こりそうにない　≧　1/12000症例　　　（　≧　1/5年）
+６．考えられない　　　＜　1/12000症例　　　（　＜　1/10年）</t></r></text></comment><comment ref="R34" authorId="2" shapeId="0" xr:uid="{00000000-0006-0000-0000-00001B000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>L：レベル
+程度・頻度基準より算出</t></r></text></comment><comment ref="T34" authorId="2" shapeId="0" xr:uid="{00000000-0006-0000-0000-00001C000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>V：検証項目</t></r></text></comment><comment ref="U34" authorId="2" shapeId="0" xr:uid="{00000000-0006-0000-0000-00001D000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>CE：臨床項目</t></r></text></comment><comment ref="V34" authorId="2" shapeId="0" xr:uid="{00000000-0006-0000-0000-00001E000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>TD：技術文書</t></r></text></comment><comment ref="X34" authorId="4" shapeId="0" xr:uid="{00000000-0006-0000-0000-00001F000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t xml:space="preserve">AR：再評価項目No.
+本項目の対策による新たな悪影響を
+再度リスク分析し，その項目番号（No.）を記載する。
+該当しない場合は－を記載（空欄は不可）
+
+</t></r></text></comment><comment ref="Y34" authorId="5" shapeId="0" xr:uid="{00000000-0006-0000-0000-000020000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>CP：クリティカルパーツ
+対策前リスクレベルの評価がⅠorⅡの場合、○とする。
+但し、機器・設計要因ではない場合、NAとする。
+対策前リスクレベルの評価がⅢ or Ⅳの場合、- または／とする。</t></r></text></comment><comment ref="Z34" authorId="5" shapeId="0" xr:uid="{00000000-0006-0000-0000-000021000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>CPが○の場合
+　関連部品の部番と名称を記入する
+CPがNAの場合
+　NAの理由を記載する
+CPが-の場合
+　未記入でOK</t></r></text></comment><comment ref="AA34" authorId="4" shapeId="0" xr:uid="{00000000-0006-0000-0000-000022000000}"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>確認文書を記載
+例）工程バリデーション，作業手順書</t></r></text></comment><comment ref="C38" authorId="6" shapeId="0" xr:uid="{00000000-0006-0000-0000-000023000000}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>Design features should be evaluated with a fucus on the intended points of contact.</t></r></text></comment><comment ref="D71" authorId="6" shapeId="0" xr:uid="{00000000-0006-0000-0000-000024000000}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>飯倉記載：</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t xml:space="preserve">
+ANSI/AAMI ST91:2021
+6.6.2 Personal Protective Equipment (PPE)
+に従って、ゴーグル、フェイスマスク、耐薬品性のある耐水手袋、防水性の防護服を装着することとする。結果的にCV-15000と同様。</t></r></text></comment><comment ref="D76" authorId="6" shapeId="0" xr:uid="{00000000-0006-0000-0000-000025000000}"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t>飯倉コメント：</t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="ＭＳ Ｐゴシック"/><family val="3"/><charset val="128"/></rPr><t xml:space="preserve">
+廃棄の記載方法は
+http://aras.fujifilm.co.jp/InnovatorServer/?StartItem=HELI_IT_Doc0108:682B61FC403B4823984BD6CBF20AB30B
+を神様とし、スコープの欧州取説の記載方法に倣う。</t></r></text></comment></commentList></comments>
